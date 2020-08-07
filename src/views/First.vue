@@ -10,6 +10,9 @@
       <div class="buttom">
         <Right></Right>
       </div>
+      <div>
+<!--        <a-button></a-button>-->
+      </div>
     </div>
   </div>
 </template>
