@@ -5,13 +5,12 @@
     </div>
     <div class="right">
       <div class="top">
-        <img src="img/title.jpg">
+        <img src="../../public/img/title.jpg" alt="">
       </div>
-      <div class="buttom">
+      <div>
         <Right></Right>
       </div>
       <div>
-<!--        <a-button></a-button>-->
       </div>
     </div>
   </div>
